@@ -9,6 +9,8 @@
 
 🌱 I’m currently learning SocketIO 
 
+📧 You can reach me @ stevenpicazo01@gmail.com
+
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
