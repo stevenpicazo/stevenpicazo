@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on a LinkedIn clone
 
-🌱 I’m currently learning Javascript, ReactJS, SQL, ExpressJS, Python, and SQLAlchemy
+🌱 I’m currently learning SocketIO 
 
 <p align="left">
 
