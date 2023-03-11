@@ -5,7 +5,7 @@
 
 <hr/>
 
-🔭 I’m currently working on a LinkedIn clon
+🔭 I’m currently working on a LinkedIn clone
 
 🌱 I’m currently learning SocketIO 
 
