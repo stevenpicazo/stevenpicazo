@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning SocketIO 
 
-📧 You can reach me @ stevenpicazo01@gmail.com
+📧 You can reach me @ stevenpicazo01@gmail.come
 
 <p align="left">
 
