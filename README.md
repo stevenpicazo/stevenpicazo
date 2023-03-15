@@ -1,5 +1,12 @@
 
+<p align="center">
+  <img alt="img-background" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524lyvkp195ejzm4g3mo9fpscpergc4f1zuhn1fo78&rid=200w.gif&ct=g">
+</p>
+
+<br/>
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Steven+Picazo!" alt="Typing SVG" /></a></div>
+
 
 <!-- <img align="center" alt="img-background" width="1200" src="https://wallpaperaccess.com/full/2825710.gif"> -->
 
