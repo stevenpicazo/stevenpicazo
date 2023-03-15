@@ -5,7 +5,7 @@
 
 <hr/>
 
-🔭 I’m currently working on a LinkedIn AirBnB, and Grailed clones.
+🔭 I’m currently working on a LinkedIn, AirBnB, and Grailed clones.
 
 🌱 I’m currently learning SocketIO 
 
