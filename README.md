@@ -1,6 +1,8 @@
+<hr/>
 
 <p align="center">
   <img alt="img-background" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524lyvkp195ejzm4g3mo9fpscpergc4f1zuhn1fo78&rid=200w.gif&ct=g">
+<!-- <img src="https://user-images.githubusercontent.com/105809464/225488449-13bfb28b-307a-41ca-9ef2-015195955613.GIF" alt="EFB2C570-7D91-4B11-9D27-67AF17593F78"> -->
 </p>
 
 <br/>
@@ -43,7 +45,7 @@
 
 ### Let's Get Connected!
 
-<a href="https://www.linkedin.com/in/steven-picazo-994042225" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/steven-picazo" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:stevenpicazo01@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- <a href="https://www.linkedin.com/in/steven-picazo-994042225" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- <a href="https://angel.co/u/steven-picazo" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+- <a href="mailto:stevenpicazo01@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <hr/>
