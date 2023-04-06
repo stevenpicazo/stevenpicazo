@@ -10,7 +10,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Steven+Picazo!" alt="Typing SVG" /></a></div>
 
 
-<!-- <img align="center" alt="img-background" width="1200" src="https://wallpaperaccess.com/full/2825710.gif"> -->
+<img align="center" alt="img-background" width="1200" src="https://wallpaperaccess.com/full/2825710.gif">
 
 <hr/>
 
