@@ -49,6 +49,9 @@
 - <a href="https://www.linkedin.com/in/steven-picazo-994042225" target="_blank">LinkedIn</a>
 - <a href="https://angel.co/u/steven-picazo" target="_blank">Wellfound (AngelList)</a>
 
+### Checkout my Portfolio!
+- <a href="https://stevenpicazo.com" target="_blank">stevenpicazo.com</a>
+
 
 <!-- <a href="https://www.linkedin.com/in/steven-picazo-994042225" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/steven-picazo" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
