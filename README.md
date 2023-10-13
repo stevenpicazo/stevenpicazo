@@ -47,7 +47,6 @@
 
 
 - <a href="https://www.linkedin.com/in/steven-picazo-994042225" target="_blank">LinkedIn</a>
-- <a href="https://angel.co/u/steven-picazo" target="_blank">Wellfound (AngelList)</a>
 
 ### Checkout my Portfolio!
 - <a href="https://stevenpicazo.com" target="_blank">stevenpicazo.com</a>
